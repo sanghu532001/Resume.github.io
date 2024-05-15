@@ -55,12 +55,7 @@ i{
     width: 25px;
     font-size: 18px;
 }
-.contactMe{
-    display: flex;
-    margin-left: 50px;
-    gap: 5px;
-    margin-top: 0px;
-}
+
 .common{
     display: flex;
     margin-left: 50px;
